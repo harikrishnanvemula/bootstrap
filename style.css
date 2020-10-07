@@ -1,0 +1,57 @@
+.row{
+   
+    border:1px solid whitesmoke;
+}
+.moqups{
+    font-weight:bold;
+    font-size:20px;
+    font-style: italic;
+}
+.category{
+    display:block;
+    align-items: center;
+    padding-right:50px;
+   }
+.category a{
+    color:black;
+
+}
+
+
+.blog{
+    border:1px solid ghostwhite;
+    bottom:6px;
+    background-color:whitesmoke;
+    
+}
+.email{
+    border:1px solid ghostwhite;
+    bottom:19px;
+    display:inline;
+
+}
+.button{
+    background-color: ghostwhite;
+}
+.boxing{
+    border:1px solid ghostwhite;
+    bottom:0px;
+    
+}
+.primary{
+    border:1px solid ghostwhite;
+    border-radius:10px;
+    color:white;
+    
+}
+.secondpart{
+    border:1px solid ghostwhite; 
+    border-radius:10px;
+    color:white;
+
+       
+}
+
+.img{
+    border:1px solid ghostwhite;
+}
