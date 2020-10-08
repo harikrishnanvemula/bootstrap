@@ -1,6 +1,10 @@
+body{
+background-color: gray;
+}
 .row{
+    background-color: white;
    
-    border:1px solid whitesmoke;
+
 }
 .moqups{
     font-weight:bold;
@@ -19,33 +23,31 @@
 
 
 .blog{
-    border:1px solid ghostwhite;
+   
     bottom:6px;
     background-color:whitesmoke;
     
 }
 .email{
-    border:1px solid ghostwhite;
+    
     bottom:19px;
     display:inline;
 
 }
-.button{
-    background-color: ghostwhite;
-}
+
 .boxing{
-    border:1px solid ghostwhite;
-    bottom:0px;
+   
+   
     
 }
 .primary{
-    border:1px solid ghostwhite;
+   
     border-radius:10px;
     color:white;
     
 }
 .secondpart{
-    border:1px solid ghostwhite; 
+  
     border-radius:10px;
     color:white;
 
@@ -53,5 +55,14 @@
 }
 
 .img{
-    border:1px solid ghostwhite;
+    height:200px;
+    padding-left:35px;
+
+    
+}
+.load{
+    border-radius: 20px;
+    font-size:12px;
+    font-weight:bold;
+   
 }
