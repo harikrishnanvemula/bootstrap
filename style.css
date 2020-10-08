@@ -32,28 +32,22 @@ background-color: gray;
     
     bottom:19px;
     display:inline;
-
 }
 
 .primary{
    
     border-radius:10px;
-    color:white;
-    
+    color:white;    
 }
 .secondpart{
   
     border-radius:10px;
-    color:white;
-
-       
+    color:white;      
 }
 
 .img{
     height:200px;
-    padding-left:35px;
-
-    
+    padding-left:35px;   
 }
 .load{
     border-radius: 20px;
